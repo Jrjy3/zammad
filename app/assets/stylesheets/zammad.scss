@@ -7258,13 +7258,6 @@ a.list-group-item.active > .badge,
   display: block;
 }
 
-@media screen {
-  .ticket-article-item {
-    content-visibility: auto;
-    contain-intrinsic-size: auto 600px;
-  }
-}
-
 .ticket-article-item {
   padding-bottom: 33px;
   position: relative;
